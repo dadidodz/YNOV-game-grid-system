@@ -1,0 +1,4 @@
+repository "game-grid-system-2D@ClaadG@cloud"
+  path "/"
+    br "/main"
+    co "/main"
